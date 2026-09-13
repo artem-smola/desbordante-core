@@ -1,0 +1,9 @@
+left,right,result
+x,p,yes
+x,p,yes
+x,q,no
+x,q,no
+y,p,no
+y,p,no
+y,q,yes
+y,q,yes
